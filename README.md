@@ -50,8 +50,7 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/riku-32ab26265/)  
-**[Connect with me on LinkedIn for networking, IT operations, and collaboration opportunities.](https://www.linkedin.com/in/riku-32ab26265/)**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/riku-32ab26265/)
 
 ---
 
