@@ -1,64 +1,69 @@
-# Hey, I'm Riku ⚡  
-[Network Infrastructure & IT Operations Enthusiast](https://github.com/CyberSickoexe) | [Future NOC & Systems Specialist](https://www.linkedin.com/in/riku-32ab26265/)
-
-💻 Passionate about building, securing, and troubleshooting **enterprise-grade networks and IT systems**.  
-🔧 Currently mastering core concepts in **Network Architecture**, **Server Administration**, **Virtualization**, and **Incident Response**.  
-🚀 Focused on becoming a highly capable **Network Operations Center (NOC) Technician**, with strong foundations in networking, infrastructure security, and system operations.
-
----
-
-## 🛠️ Technical Projects & Labs
-
-- **🔐 Secure Network Design (Cisco)**  
-  *End-to-end secure network topology design with VLAN segmentation, ACLs, and redundancy planning.*  
-  [View Repository](https://github.com/CyberSickoexe/secure-network-design-cisco)
-
-- **🌐 Switch, Router & Server Lab**  
-  *Hands-on deployment of Cisco switching/routing solutions and Windows/Linux server environments to simulate real-world IT infrastructure.*  
-  [View Repository](https://github.com/CyberSickoexe/switch-router-network)
+<h1 align="center">Hey, I'm Riku ⚡</h1>
+<p align="center">
+  <b>Network Infrastructure | IT Operations | Future NOC & Systems Specialist</b><br>
+  Passionate about building, securing, and troubleshooting enterprise-grade networks and IT systems.
+</p>
 
 ---
 
-## 📡 NOC & IT Operations Technical Focus
+## 🧩 About Me
 
-- Real-world configuration of **Switches**, **Routers**, **VLANs**, and **Routing Protocols** (Static, RIP, OSPF)  
-- **Windows Server & Linux** basics — deployment, management, and troubleshooting  
-- Virtualization with **VMware** & **VirtualBox** for scalable, multi-system environments  
-- Network health monitoring with **SNMP**, **Syslog**, and traffic analysis tools  
-- Troubleshooting of Layer 1-3 incidents, hardware failures, and connectivity issues  
-- Fundamentals of **BGP**, **MPLS**, **VPNs**, **WAN connectivity**, and server-network integration  
-- Incident response and rapid escalation procedures  
-- Studying for **CompTIA Network+**, **CCNA**, and expanding knowledge in **Server Administration** & **Virtualization**
+- 🔧 Mastering **Network Architecture**, **Server Administration**, **Virtualization**, and **Incident Response**  
+- 💻 Currently building real-world skills for **NOC Technician** & **System Operations** roles  
+- 🚀 Focused on becoming a reliable professional in **Network Infrastructure**, **IT Operations**, and **Infrastructure Security**  
 
 ---
 
-## 🧠 Current Learning & Lab Environment
+## 🛠️ Technical Projects
 
-- **Cisco Lab Simulations:** Packet Tracer & GNS3 for network design and troubleshooting drills  
-- **Virtual Lab Environments:** VMware & VirtualBox for server and multi-system setups  
-- **Network & System Security:** Firewalls, ACLs, port security, DoS mitigation, and basic server hardening principles  
+- **🔐 Secure Network Design (Cisco)** — VLAN segmentation, ACLs, redundancy planning  
+  [View Project](https://github.com/CyberSickoexe/secure-network-design-cisco)  
 
----
-
-## 🎓 Certifications & Career Path Badges
-
-- [Cisco Network Technician Career Path](https://www.credly.com/badges/299c4338-0330-40df-9fa2-e7ddf78a31ab)  
-- [Computer Hardware Basics](https://www.credly.com/badges/f5861fe0-b307-4cdd-b021-88198adc3d07)  
-- [Operating Systems Basics](https://www.credly.com/badges/f116ff8a-bcba-466b-a53b-a4211e7ae44f)  
+- **🌐 Switch, Router & Server Lab** — Cisco switching/routing and Windows/Linux server deployments  
+  [View Project](https://github.com/CyberSickoexe/switch-router-network)  
 
 ---
 
-## 🤝 Let's Connect
+## ⚙️ Technical Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/riku-32ab26265/)
+- ✅ Network Configuration: Switches, Routers, VLANs, Routing Protocols (Static, RIP, OSPF)  
+- ✅ Server Basics: Windows Server & Linux deployment and management  
+- ✅ Virtual Labs: VMware & VirtualBox for multi-system setups  
+- ✅ Monitoring: SNMP, Syslog, Traffic Analysis tools  
+- ✅ Troubleshooting: Layer 1-3 incidents, hardware failures, server-network integration  
+- ✅ Network Fundamentals: BGP, MPLS, VPNs, WAN connectivity  
+- ✅ Security: Firewalls, ACLs, Port Security, Basic Server Hardening  
+- 🎯 Certifications: Studying for **CompTIA Network+**, **CCNA**, and expanding server knowledge  
+
+---
+
+## 🧠 Learning & Lab Setup
+
+- 💡 Cisco Lab Simulations: Packet Tracer & GNS3  
+- 💡 Virtual Lab Environments: VMware & VirtualBox  
+- 💡 Security Concepts: DoS mitigation, ACLs, server security basics  
+
+---
+
+## 🎓 Certifications & Badges
+
+[![Cisco Network Technician](https://img.shields.io/badge/Cisco-Network%20Technician-blue?logo=cisco)](https://www.credly.com/badges/299c4338-0330-40df-9fa2-e7ddf78a31ab)  
+[![Computer Hardware Basics](https://img.shields.io/badge/Hardware-Basics-lightgrey)](https://www.credly.com/badges/f5861fe0-b307-4cdd-b021-88198adc3d07)  
+[![Operating Systems Basics](https://img.shields.io/badge/Operating%20Systems-Basics-lightgrey)](https://www.credly.com/badges/f116ff8a-bcba-466b-a53b-a4211e7ae44f)  
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/riku-32ab26265/)
 
 ---
 
 ## ⚡ Quick Summary
 
-✅ Driven by technical precision and operational reliability  
 ✅ Obsessed with uptime — for both networks and systems  
-✅ Continuously learning, building labs, breaking, fixing, and repeating  
-✅ Building a career that combines **network infrastructure**, **IT operations**, and **system security**  
+✅ Continuous learner — build, test, break, fix, repeat  
+✅ Committed to real-world technical growth  
+✅ Actively building a future in **NOC**, **IT Operations**, and **Infrastructure Security**  
 
 ---
