@@ -1,55 +1,55 @@
 <h1 align="center">Hey, I'm Riku ⚡</h1>
 <p align="center">
-  <b>Network Infrastructure | IT Operations | Future NOC & Systems Specialist</b><br>
-  Passionate about building, securing, and troubleshooting enterprise-grade networks and IT systems.
+  <b>Cloud Systems Admin in Progress | IT Learner | Basic Networking Knowledge</b><br>
+  Exploring servers, cloud platforms, and IT infrastructure — one step at a time.
 </p>
 
 ---
 
-## 🧩 About Me
+## 🌱 About Me
 
-- 🔧 Mastering **Network Architecture**, **Server Administration**, **Virtualization**, and **Incident Response**  
-- 💻 Currently building real-world skills for **NOC Technician** & **System Operations** roles  
-- 🚀 Focused on becoming a reliable professional in **Network Infrastructure**, **IT Operations**, and **Infrastructure Security**  
+- Currently learning **Cloud Systems Administration** and **IT Infrastructure**  
+- Exploring how servers and cloud platforms work together  
+- Learning the basics of networking to support cloud and system operations  
+- Long-term goal: Become a **Cloud Systems Administrator**  
 
 ---
 
-## 🛠️ Technical Projects
+## ☁️ Cloud Learning Journey
 
-- **🔐 Secure Network Design (Cisco)** — VLAN segmentation, ACLs, redundancy planning  
-  [View Project](https://github.com/CyberSickoexe/secure-network-design-cisco)  
+- Preparing for the **AWS Certified Cloud Practitioner** certification  
+- Currently working through:  
+  - ✅ **AWS Cloud Practitioner Essentials**  
+  - ✅ **AWS Technical Essentials**  
+  - ✅ **AWS Well-Architected Foundations**  
 
-- **🌐 Switch, Router & Server Lab** — Cisco switching/routing and Windows/Linux server deployments  
+---
+
+## 🛠️ Projects & Labs
+
+- **🌐 Switch, Router & Server Lab** — Basic experiments with networking and servers  
   [View Project](https://github.com/CyberSickoexe/switch-router-network)  
 
----
-
-## ⚙️ Technical Focus
-
-- ✅ Network Configuration: Switches, Routers, VLANs, Routing Protocols (Static, RIP, OSPF)  
-- ✅ Server Basics: Windows Server & Linux deployment and management  
-- ✅ Virtual Labs: VMware & VirtualBox for multi-system setups  
-- ✅ Monitoring: SNMP, Syslog, Traffic Analysis tools  
-- ✅ Troubleshooting: Layer 1-3 incidents, hardware failures, server-network integration  
-- ✅ Network Fundamentals: BGP, MPLS, VPNs, WAN connectivity  
-- ✅ Security: Firewalls, ACLs, Port Security, Basic Server Hardening  
-- 🎯 Certifications: Studying for **CompTIA Network+**, **CCNA**, and expanding server knowledge  
+- **🔧 Secure Network Design (Beginner Practice)** — Simple VLANs and access control examples  
+  [View Project](https://github.com/CyberSickoexe/secure-network-design-cisco)  
 
 ---
 
-## 🧠 Learning & Lab Setup
+## ⚙️ Current Learning Focus
 
-- 💡 Cisco Lab Simulations: Packet Tracer & GNS3  
-- 💡 Virtual Lab Environments: VMware & VirtualBox  
-- 💡 Security Concepts: DoS mitigation, ACLs, server security basics  
+- ✅ **Cloud Basics:** AWS core concepts and cloud infrastructure  
+- ✅ **Servers:** Windows Server & Linux fundamentals  
+- ✅ **Virtual Labs:** Using VMware & VirtualBox for testing setups  
+- ✅ **Networking Basics:** VLANs, simple routing, basic Cisco device setup  
+- ✅ **Security Fundamentals:** Basic server and network security principles  
 
 ---
 
-## 🎓 Certifications & Badges
+## 🧠 Lab Setup
 
-[![Cisco Network Technician](https://img.shields.io/badge/Cisco-Network%20Technician-blue?logo=cisco)](https://www.credly.com/badges/299c4338-0330-40df-9fa2-e7ddf78a31ab)  
-[![Computer Hardware Basics](https://img.shields.io/badge/Hardware-Basics-lightgrey)](https://www.credly.com/badges/f5861fe0-b307-4cdd-b021-88198adc3d07)  
-[![Operating Systems Basics](https://img.shields.io/badge/Operating%20Systems-Basics-lightgrey)](https://www.credly.com/badges/f116ff8a-bcba-466b-a53b-a4211e7ae44f)  
+- 💡 Cisco Packet Tracer for basic networking practice  
+- 💡 VMware & VirtualBox for building server and multi-system environments  
+- 💡 Exploring hybrid setups (local + cloud)  
 
 ---
 
@@ -59,9 +59,12 @@
 
 ---
 
-## ⚡ Quick Summary
+## ⚡ Quick Notes
 
-✅ Obsessed with uptime — for both networks and systems  
+- Still learning — focusing on cloud, servers, and basic networking  
+- Passionate about becoming a **reliable Cloud Systems Administrator**  
+- Always open to advice, beginner resources, and practice opportunities
+
 ✅ Continuous learner — build, test, break, fix, repeat  
 ✅ Committed to real-world technical growth  
 ✅ Actively building a future in **NOC**, **IT Operations**, and **Infrastructure Security**  
