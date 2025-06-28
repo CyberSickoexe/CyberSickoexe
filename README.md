@@ -48,6 +48,23 @@ I'm an aspiring **Cloud Systems Administrator** actively building skills in clou
 
 ---
 
+## 🏅 Certifications & Badges
+
+- 🎯 In Progress:  
+  - **AWS Certified Cloud Practitioner (studying)** 
+  - **Linux Essentials (in-progress)**  
+  - **Zendesk Foundational Support (In-progress)**  
+  - **AWS Cloud Practitioner Essentials (in-progress)**  
+  - **AWS Technical Essentials**  
+  - **AWS Well-Architected Foundations**  
+
+- ✅ Completed:  
+  [![Cisco Network Technician](https://img.shields.io/badge/Cisco-Network%20Technician-blue?logo=cisco)](https://www.credly.com/badges/299c4338-0330-40df-9fa2-e7ddf78a31ab)  
+  [![Computer Hardware Basics](https://img.shields.io/badge/Hardware-Basics-lightgrey)](https://www.credly.com/badges/f5861fe0-b307-4cdd-b021-88198adc3d07)  
+  [![Operating Systems Basics](https://img.shields.io/badge/Operating%20Systems-Basics-lightgrey)](https://www.credly.com/badges/f116ff8a-bcba-466b-a53b-a4211e7ae44f)  
+
+---
+
 ## 🎯 Career Goal
 
 To grow into a **Cloud Systems Administrator**, combining knowledge of servers, cloud technologies, Linux, networking, and customer support platforms to deliver secure, reliable IT infrastructure and support.
