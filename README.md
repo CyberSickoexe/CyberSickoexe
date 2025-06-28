@@ -1,72 +1,64 @@
 <h1 align="center">Hey, I'm Riku ⚡</h1>
 <p align="center">
-  <b>Cloud Systems Admin in Progress | IT Learner | Basic Networking Knowledge</b><br>
-  Exploring servers, cloud platforms, and IT infrastructure — one step at a time.
+  <b>Cloud Systems Administrator in Progress | IT Infrastructure Enthusiast</b><br>
+  Passionate about building reliable cloud environments with a strong foundation in servers, Linux, and networking.
 </p>
 
 ---
 
-## 🌱 About Me
+## 🌐 About Me
 
-- Currently learning **Cloud Systems Administration** and **IT Infrastructure**  
-- Exploring how servers and cloud platforms work together  
-- Learning the basics of networking to support cloud and system operations  
-- Long-term goal: Become a **Cloud Systems Administrator**  
+I'm an aspiring **Cloud Systems Administrator** actively building skills in cloud platforms, server administration, and infrastructure fundamentals. With a growing interest in Linux and Kubernetes, I'm focused on developing the knowledge needed to manage modern, hybrid IT environments.
 
 ---
 
-## ☁️ Cloud Learning Journey
+## ☁️ Current Learning Focus
 
-- Preparing for the **AWS Certified Cloud Practitioner** certification  
-- Currently working through:  
-  - ✅ **AWS Cloud Practitioner Essentials**  
-  - ✅ **AWS Technical Essentials**  
-  - ✅ **AWS Well-Architected Foundations**  
+- **Cloud Fundamentals**  
+  - Preparing for the **AWS Certified Cloud Practitioner**  
+  - Completing:  
+    - AWS Cloud Practitioner Essentials  
+    - AWS Technical Essentials  
+    - AWS Well-Architected Foundations  
+
+- **Linux & Kubernetes**  
+  - Learning Linux system administration basics  
+  - Planning to explore containerization and Kubernetes  
+
+- **Networking Foundations**  
+  - Developing practical knowledge of switching, routing, and basic network security  
+  - Hands-on labs with Cisco Packet Tracer  
+
+- **Virtualization & Labs**  
+  - Building test environments with VMware and VirtualBox  
+  - Experimenting with server and network integration  
 
 ---
 
 ## 🛠️ Projects & Labs
 
-- **🌐 Switch, Router & Server Lab** — Basic experiments with networking and servers  
+- **Switch, Router & Server Lab** — Hands-on practice with basic networking and server deployment  
   [View Project](https://github.com/CyberSickoexe/switch-router-network)  
 
-- **🔧 Secure Network Design (Beginner Practice)** — Simple VLANs and access control examples  
+- **Beginner Secure Network Design** — Basic VLAN segmentation and access control exercises  
   [View Project](https://github.com/CyberSickoexe/secure-network-design-cisco)  
 
 ---
 
-## ⚙️ Current Learning Focus
+## 🎯 Career Goal
 
-- ✅ **Cloud Basics:** AWS core concepts and cloud infrastructure  
-- ✅ **Servers:** Windows Server & Linux fundamentals  
-- ✅ **Virtual Labs:** Using VMware & VirtualBox for testing setups  
-- ✅ **Networking Basics:** VLANs, simple routing, basic Cisco device setup  
-- ✅ **Security Fundamentals:** Basic server and network security principles  
+To grow into a **Cloud Systems Administrator**, combining knowledge of servers, cloud technologies, Linux, and networking to support secure, reliable IT infrastructure.
 
 ---
 
-## 🧠 Lab Setup
-
-- 💡 Cisco Packet Tracer for basic networking practice  
-- 💡 VMware & VirtualBox for building server and multi-system environments  
-- 💡 Exploring hybrid setups (local + cloud)  
-
----
-
-## 📬 Let's Connect
+## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/riku-32ab26265/)
 
 ---
 
-## ⚡ Quick Notes
+## ⚡ Quick Summary
 
-- Still learning — focusing on cloud, servers, and basic networking  
-- Passionate about becoming a **reliable Cloud Systems Administrator**  
-- Always open to advice, beginner resources, and practice opportunities
-
-✅ Continuous learner — build, test, break, fix, repeat  
-✅ Committed to real-world technical growth  
-✅ Actively building a future in **NOC**, **IT Operations**, and **Infrastructure Security**  
-
----
+- Building a foundation in **cloud, Linux, servers, and networking**  
+- Actively working on **AWS certification** and hands-on labs  
+- Focused, motivated, and eager to learn from real-world projects and experienced professionals  
