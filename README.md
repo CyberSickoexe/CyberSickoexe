@@ -52,7 +52,6 @@ I'm an aspiring **Cloud Systems Administrator** actively building skills in clou
 
 - 🎯 In Progress:  
   - **AWS Certified Cloud Practitioner (studying)**  
-  - **Linux Essentials (in-progress)**  
   - **AWS Cloud Practitioner Essentials (in-progress)**  
   - **AWS Technical Essentials**  
   - **AWS Well-Architected Foundations**  
