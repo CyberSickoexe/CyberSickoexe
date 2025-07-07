@@ -1,4 +1,4 @@
-# Hey, I'm Riku ⚡
+# Hey, I'm CyberSickoexe ⚡
 
 **Windows System Administrator in Progress | IT Infrastructure Enthusiast**  
 Passionate about mastering Windows environments with a strong foundation in servers, troubleshooting, and networking.
