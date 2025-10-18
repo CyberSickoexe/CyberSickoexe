@@ -1,59 +1,74 @@
 # Hey, I'm CyberSickoexe ⚡
 
-**Windows System Administrator in Progress | IT Infrastructure Enthusiast**  
-Passionate about mastering Windows environments with a strong foundation in servers, troubleshooting, and networking.
+**Aspiring SOC Analyst | Cybersecurity & Network Defense Enthusiast**
+Passionate about mastering cyber defense, threat analysis, and security operations through hands-on labs and continuous learning.
 
 ---
 
-## 🖥️ About Me
+## 🧠 About Me
 
-I'm an aspiring **Windows System Administrator** actively building skills in Windows server environments, system administration, and IT infrastructure fundamentals. With a growing interest in troubleshooting, Active Directory, and customer support platforms, I'm focused on developing the knowledge needed to manage secure and reliable IT environments.
+I'm an aspiring **SOC & Cybersecurity Analyst** building a strong foundation in threat detection, network defense, and incident response. My focus lies in understanding attacker methodologies, securing systems, and defending infrastructures through continuous learning and lab simulations.
 
----
-
-## 🏗️ Current Learning Focus
-
-- **Windows System Administration**  
-  - Building practical skills with **Windows Server** and **Active Directory**  
-  - Exploring Group Policy, user management, and system configuration  
-  - Deep diving into **troubleshooting common Windows issues**  
-
-- **IT Support & Customer Platforms**  
-  - Completed **Zendesk Foundational Support** to better understand customer service systems and ticketing platforms  
-
-- **Networking Foundations**  
-  - Developing practical knowledge of switching, routing, and basic network security  
-  - Hands-on labs with Cisco Packet Tracer  
-
-- **Virtualization & Labs**  
-  - Building test environments with VMware and VirtualBox  
-  - Experimenting with server and network integration  
+With practical exposure to security tools, networking fundamentals, and vulnerability analysis, I’m dedicated to developing the skills needed to investigate, detect, and mitigate cyber threats effectively.
 
 ---
 
-## 🛠️ Projects & Labs
+## 🔍 Current Learning Focus
 
-- **Switch, Router & Server Lab** — Hands-on practice with basic networking and server deployment  
-  [View Project](https://github.com/CyberSickoexe/switch-router-network)  
+* **SOC Operations & Threat Detection**
 
-- **Beginner Secure Network Design** — Basic VLAN segmentation and access control exercises  
-  [View Project](https://github.com/CyberSickoexe/secure-network-design-cisco)  
+  * Training in **SOC workflows**, **incident response**, and **threat hunting** using platforms like *LetsDefend*
+  * Studying **MITRE ATT&CK**, **SIEM log analysis**, and alert triage methods
+  * Hands-on experience in **monitoring and analyzing network traffic**
+
+* **Cybersecurity Fundamentals**
+
+  * Completed **Junior Cybersecurity Analyst Career Path** *(Google x NCSA)*
+  * Learning **Network Defense Essentials (NDE)** and **Ethical Hacking Essentials (EHE)**
+  * Practicing vulnerability identification and basic penetration testing techniques
+
+* **Network Analysis & Security**
+
+  * Understanding packet analysis, network protocols, and data inspection using Wireshark
+  * Completed **Introduction to Network Analysis**
+  * Gaining knowledge in **network architecture and secure configurations**
+
+* **Tools & Technologies**
+
+  * Familiar with SIEM platforms, IDS/IPS concepts, and basic scripting for automation
+  * Building defensive skills through **LetsDefend SOC Analyst labs**
+
+---
+
+## 🧪 Projects & Labs
+
+* **SOC Incident Simulation Lab** — Hands-on experience analyzing alerts, investigating logs, and responding to simulated cyber incidents.
+  [View Project](https://app.letsdefend.io//my-rewards/detail/77c788cb-872c-4315-9786-004e615f37da)
+
+* **Network Monitoring & Threat Detection** — Configured packet captures and analyzed traffic patterns to identify anomalies.
+  [View Project](https://github.com/CyberSickoexe/network-threat-lab)
+
+* **Beginner Secure Network Design** — Applied VLANs, ACLs, and segmentation principles to improve defense-in-depth.
+  [View Project](https://github.com/CyberSickoexe/secure-network-design-cisco)
 
 ---
 
 ## 🏅 Certifications & Badges
 
-- ✅ Completed:  
-  [![Zendesk Foundational Support](https://img.shields.io/badge/Zendesk-Foundational%20Support-green?logo=zendesk)](https://www.credly.com/earner/earned/share/e52a18b1-adca-48c1-8334-324903e409d8)  
-  [![Cisco Network Technician](https://img.shields.io/badge/Cisco-Network%20Technician-blue?logo=cisco)](https://www.credly.com/badges/299c4338-0330-40df-9fa2-e7ddf78a31ab)  
-  [![Computer Hardware Basics](https://img.shields.io/badge/Hardware-Basics-lightgrey)](https://www.credly.com/badges/f5861fe0-b307-4cdd-b021-88198adc3d07)  
-  [![Operating Systems Basics](https://img.shields.io/badge/Operating%20Systems-Basics-lightgrey)](https://www.credly.com/badges/f116ff8a-bcba-466b-a53b-a4211e7ae44f)  
+* ✅ Completed:
+  [![Junior Cybersecurity Analyst](https://img.shields.io/badge/Career%20Path-Junior%20Cybersecurity%20Analyst-blue?logo=google)](https://www.credly.com/earner/earned/badge/a1fa50c2-5ffa-4ab9-8271-b8fef974196d)
+  [![SOC Analyst Learning Path](https://img.shields.io/badge/LetsDefend-SOC%20Analyst%20Path-green?logo=letsdefend)](https://app.letsdefend.io//my-rewards/detail/77c788cb-872c-4315-9786-004e615f37da)
+  [![Network Defense Essentials (NDE)](https://img.shields.io/badge/EC--Council-Network%20Defense%20Essentials-orange?logo=eccouncil)]()
+  [![Ethical Hacking Essentials (EHE)](https://img.shields.io/badge/EC--Council-Ethical%20Hacking%20Essentials-red?logo=eccouncil)]()
+  [![Introduction to Network Analysis](https://img.shields.io/badge/Network%20Analysis-Introduction-lightgrey)]()
+  [![Network Technician Career Path](https://img.shields.io/badge/Cisco-Network%20Technician-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/299c4338-0330-40df-9fa2-e7ddf78a31ab)
 
 ---
 
 ## 🎯 Career Goal
 
-To grow into a **Windows System Administrator**, mastering all aspects of Windows environments, from servers to desktops, and becoming an IT professional who can troubleshoot and resolve any Windows-related issue with confidence.
+To become a **Cybersecurity Analyst / SOC Analyst**, specializing in monitoring, analyzing, and responding to security incidents.
+My goal is to protect organizations by detecting intrusions early, understanding adversary behavior, and contributing to a strong cyber defense posture.
 
 ---
 
@@ -65,6 +80,7 @@ To grow into a **Windows System Administrator**, mastering all aspects of Window
 
 ## ⚡ Quick Summary
 
-- Building a foundation in **Windows systems, troubleshooting, servers, networking, and IT support**  
-- Actively working on **hands-on labs**, **certifications**, and real-world troubleshooting scenarios  
-- Focused, motivated, and eager to grow through practical experience and continuous learning  
+* Building strong skills in **threat detection, network analysis, and security monitoring**
+* Actively completing **SOC labs**, **cyber defense certifications**, and **incident response simulations**
+* Driven by curiosity, hands-on learning, and a passion for **defending against digital threats**
+
