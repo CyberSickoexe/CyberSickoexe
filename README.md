@@ -1,86 +1,298 @@
-# Hey, I'm CyberSickoexe ⚡
 
-**Aspiring SOC Analyst | Cybersecurity & Network Defense Enthusiast**
-Passionate about mastering cyber defense, threat analysis, and security operations through hands-on labs and continuous learning.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CyberSickoexe | IT Infrastructure & Automation</title>
 
----
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Rajdhani:wght@400;600&display=swap" rel="stylesheet">
 
-## 🧠 About Me
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 
-I'm an aspiring **SOC & Cybersecurity Analyst** building a strong foundation in threat detection, network defense, and incident response. My focus lies in understanding attacker methodologies, securing systems, and defending infrastructures through continuous learning and lab simulations.
+body{
+    background:#050816;
+    color:#d9faff;
+    font-family:'Rajdhani',sans-serif;
+    overflow-x:hidden;
+    background-image:
+    radial-gradient(circle at top left,#0ff2 0%,transparent 25%),
+    radial-gradient(circle at bottom right,#ff00ff22 0%,transparent 25%);
+}
 
-With practical exposure to security tools, networking fundamentals, and vulnerability analysis, I’m dedicated to developing the skills needed to investigate, detect, and mitigate cyber threats effectively.
+.container{
+    width:90%;
+    max-width:1300px;
+    margin:auto;
+    padding:50px 0;
+}
 
----
+.hero{
+    text-align:center;
+    padding:80px 20px;
+    border:1px solid #00ffff55;
+    background:#0a0f24cc;
+    backdrop-filter:blur(10px);
+    border-radius:20px;
+    box-shadow:0 0 40px #00ffff22;
+    margin-bottom:40px;
+}
 
-## 🔍 Current Learning Focus
+.hero h1{
+    font-family:'Orbitron',sans-serif;
+    font-size:4rem;
+    color:#00ffff;
+    text-shadow:0 0 15px #00ffff;
+    margin-bottom:15px;
+}
 
-* **SOC Operations & Threat Detection**
+.hero h2{
+    color:#ff00ff;
+    font-size:1.5rem;
+    margin-bottom:20px;
+}
 
-  * Training in **SOC workflows**, **incident response**, and **threat hunting** using platforms like *LetsDefend*
-  * Studying **MITRE ATT&CK**, **SIEM log analysis**, and alert triage methods
-  * Hands-on experience in **monitoring and analyzing network traffic**
+.hero p{
+    max-width:900px;
+    margin:auto;
+    font-size:1.2rem;
+    color:#c8d8ff;
+    line-height:1.8;
+}
 
-* **Cybersecurity Fundamentals**
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+    gap:25px;
+}
 
-  * Completed **Junior Cybersecurity Analyst Career Path** *(Google x NCSA)*
-  * Learning **Network Defense Essentials (NDE)** and **Ethical Hacking Essentials (EHE)**
-  * Practicing vulnerability identification and basic penetration testing techniques
+.card{
+    background:#0a0f24cc;
+    border:1px solid #00ffff33;
+    border-radius:20px;
+    padding:30px;
+    transition:0.3s ease;
+    position:relative;
+    overflow:hidden;
+}
 
-* **Network Analysis & Security**
+.card::before{
+    content:'';
+    position:absolute;
+    width:200%;
+    height:2px;
+    background:linear-gradient(90deg,transparent,#00ffff,transparent);
+    top:0;
+    left:-50%;
+    animation:scan 4s linear infinite;
+}
 
-  * Understanding packet analysis, network protocols, and data inspection using Wireshark
-  * Completed **Introduction to Network Analysis**
-  * Gaining knowledge in **network architecture and secure configurations**
+@keyframes scan{
+    0%{transform:translateX(-100%);}
+    100%{transform:translateX(100%);}
+}
 
-* **Tools & Technologies**
+.card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 0 25px #00ffff44;
+}
 
-  * Familiar with SIEM platforms, IDS/IPS concepts, and basic scripting for automation
-  * Building defensive skills through **LetsDefend SOC Analyst labs**
+.card h3{
+    color:#00ffff;
+    font-family:'Orbitron',sans-serif;
+    margin-bottom:20px;
+    font-size:1.4rem;
+}
 
----
+.card ul{
+    list-style:none;
+}
 
-## 🧪 Projects & Labs
+.card ul li{
+    padding:8px 0;
+    border-bottom:1px solid #ffffff11;
+    color:#d4eaff;
+}
 
-* **SOC Incident Simulation Lab** — Hands-on experience analyzing alerts, investigating logs, and responding to simulated cyber incidents.
-  [View Project](https://app.letsdefend.io//my-rewards/detail/77c788cb-872c-4315-9786-004e615f37da)
+.section-title{
+    font-family:'Orbitron',sans-serif;
+    color:#ff00ff;
+    margin:50px 0 25px;
+    font-size:2rem;
+    text-shadow:0 0 10px #ff00ff;
+}
 
-* **Network Monitoring & Threat Detection** — Configured packet captures and analyzed traffic patterns to identify anomalies.
-  [View Project](https://github.com/CyberSickoexe/network-threat-lab)
+.project{
+    margin-bottom:30px;
+    padding:25px;
+    border-left:4px solid #00ffff;
+    background:#0f142d;
+    border-radius:12px;
+}
 
-* **Beginner Secure Network Design** — Applied VLANs, ACLs, and segmentation principles to improve defense-in-depth.
-  [View Project](https://github.com/CyberSickoexe/secure-network-design-cisco)
+.project h4{
+    color:#00ffff;
+    margin-bottom:10px;
+    font-size:1.4rem;
+}
 
----
+.project p{
+    color:#cddfff;
+    line-height:1.7;
+}
 
-## 🏅 Certifications & Badges
+a{
+    color:#00ffff;
+    text-decoration:none;
+    transition:0.3s;
+}
 
-* ✅ Completed:
-  [![Junior Cybersecurity Analyst](https://img.shields.io/badge/Career%20Path-Junior%20Cybersecurity%20Analyst-blue?logo=google)](https://www.credly.com/earner/earned/badge/a1fa50c2-5ffa-4ab9-8271-b8fef974196d)
-  [![SOC Analyst Learning Path](https://img.shields.io/badge/LetsDefend-SOC%20Analyst%20Path-green?logo=letsdefend)](https://app.letsdefend.io//my-rewards/detail/77c788cb-872c-4315-9786-004e615f37da)
-  [![Network Defense Essentials (NDE)](https://img.shields.io/badge/EC--Council-Network%20Defense%20Essentials-orange?logo=eccouncil)]()
-  [![Ethical Hacking Essentials (EHE)](https://img.shields.io/badge/EC--Council-Ethical%20Hacking%20Essentials-red?logo=eccouncil)]()
-  [![Introduction to Network Analysis](https://img.shields.io/badge/Network%20Analysis-Introduction-lightgrey)]()
-  [![Network Technician Career Path](https://img.shields.io/badge/Cisco-Network%20Technician-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/299c4338-0330-40df-9fa2-e7ddf78a31ab)
+a:hover{
+    color:#ff00ff;
+    text-shadow:0 0 10px #ff00ff;
+}
 
----
+.footer{
+    text-align:center;
+    margin-top:60px;
+    padding:30px;
+    color:#8aa0d0;
+    border-top:1px solid #00ffff22;
+}
 
-## 🎯 Career Goal
+.glow{
+    color:#00ffff;
+    text-shadow:0 0 15px #00ffff;
+}
+</style>
+</head>
 
-To become a **Cybersecurity Analyst / SOC Analyst**, specializing in monitoring, analyzing, and responding to security incidents.
-My goal is to protect organizations by detecting intrusions early, understanding adversary behavior, and contributing to a strong cyber defense posture.
+<body>
 
----
+<div class="container">
 
-## 📬 Connect with Me
+<div class="hero">
+    <h1>CYBERSICKOEXE ⚡</h1>
+    <h2>IT Infrastructure • PowerShell Automation • Enterprise Systems</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/riku-32ab26265/)
+    <p>
+        Building advanced PowerShell automation systems focused on IT administration,
+        diagnostics, network visibility, infrastructure monitoring, and enterprise support workflows.
+        Passionate about creating high-efficiency tooling that improves troubleshooting speed,
+        system intelligence, and operational automation.
+    </p>
+</div>
 
----
+<h2 class="section-title">SYSTEM FOCUS</h2>
 
-## ⚡ Quick Summary
+<div class="grid">
 
-* Building strong skills in **threat detection, network analysis, and security monitoring**
-* Actively completing **SOC labs**, **cyber defense certifications**, and **incident response simulations**
-* Driven by curiosity, hands-on learning, and a passion for **defending against digital threats**
+<div class="card">
+    <h3>⚙ SYSTEM ADMINISTRATION</h3>
+    <ul>
+        <li>Windows Diagnostics</li>
+        <li>Performance Monitoring</li>
+        <li>Event Log Analysis</li>
+        <li>Service Management</li>
+        <li>Automated Reporting</li>
+    </ul>
+</div>
 
+<div class="card">
+    <h3>🌐 NETWORK OPERATIONS</h3>
+    <ul>
+        <li>DNS Analysis</li>
+        <li>TCP Connection Mapping</li>
+        <li>Traceroute Diagnostics</li>
+        <li>Infrastructure Visibility</li>
+        <li>Network Monitoring</li>
+    </ul>
+</div>
+
+<div class="card">
+    <h3>🖥 POWERSHELL AUTOMATION</h3>
+    <ul>
+        <li>GUI-Based Toolkits</li>
+        <li>Windows Forms (.NET)</li>
+        <li>Modular Architecture</li>
+        <li>Repair Automation</li>
+        <li>Enterprise Workflow Tools</li>
+    </ul>
+</div>
+
+</div>
+
+<h2 class="section-title">ACTIVE PROJECTS</h2>
+
+<div class="project">
+    <h4>🖥 IT SUPPORT ADMIN TOOLKIT</h4>
+    <p>
+        Advanced PowerShell GUI toolkit designed to centralize diagnostics,
+        event analysis, network monitoring, service visibility, and automated
+        reporting into a single enterprise-style administrative interface.
+    </p>
+    <br>
+    <a href="https://github.com/CyberSickoexe/PowerShell-Projects">
+        ► View GitHub Repository
+    </a>
+</div>
+
+<div class="project">
+    <h4>🖨 PRINTER AI TECHNICIAN TOOLKIT</h4>
+    <p>
+        Intelligent Windows print infrastructure repair system capable of spooler
+        diagnostics, queue recovery, automated repair logic, and helpdesk-ready
+        reporting workflows.
+    </p>
+</div>
+
+<h2 class="section-title">TECH STACK</h2>
+
+<div class="grid">
+
+<div class="card">
+    <h3>💻 CORE TECHNOLOGIES</h3>
+    <ul>
+        <li>PowerShell 5.1+</li>
+        <li>Windows Forms (.NET)</li>
+        <li>JSON Configuration Systems</li>
+        <li>Windows Administration</li>
+        <li>Infrastructure Automation</li>
+    </ul>
+</div>
+
+<div class="card">
+    <h3>📡 INFRASTRUCTURE</h3>
+    <ul>
+        <li>Windows 10 / 11</li>
+        <li>Active Directory</li>
+        <li>Task Scheduler</li>
+        <li>System Services</li>
+        <li>Network Diagnostics</li>
+    </ul>
+</div>
+
+</div>
+
+<div class="footer">
+    <p>
+        <span class="glow">STATUS:</span>
+        PROJECTS CURRENTLY IN ACTIVE DEVELOPMENT ⚡
+    </p>
+
+    <br>
+
+    <a href="https://www.linkedin.com/in/riku-32ab26265/">
+        LinkedIn Profile
+    </a>
+</div>
+
+</div>
+
+</body>
+</html>
